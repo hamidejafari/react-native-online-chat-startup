@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1036960090765",
+    "firebase_url": "https://wemoshaver-9eada.firebaseio.com",
+    "project_id": "wemoshaver-9eada",
+    "storage_bucket": "wemoshaver-9eada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036960090765:android:08aeae5eae9d5f27",
+        "android_client_info": {
+          "package_name": "com.wemoshaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036960090765-050tnc2s78k1d9qs91r5i1s3po18sdma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-ULiIG0kH-Odc56Do8cbRPKLosIwS2ZM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
